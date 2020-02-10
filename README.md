@@ -1,14 +1,14 @@
 # google-cr-practices
 
-谷歌有许多涵盖多种语言和多个项目的通用工程实践，并且维护了一个文档仓库：https://github.com/google/eng-practices
+谷歌有许多涵盖多种语言和多个项目的通用工程实践，并且维护了一个文档仓库：https://github.com/google/eng-practices 。
 看仓库名字和其中的README描述，应该是打算把很多优秀的实践汇总到一处的，不过，当前（2020-02-10）该仓库下面只包含了关于谷歌如何做CodeReview的实践。
 
-刚好团队内也在理CodeReview相关的工作，再看谷歌实践的过程中，就顺手把这些内容翻译一下：https://github.com/google/eng-practices/tree/master/review 。
+刚好团队内也在理CodeReview相关的工作，在看谷歌实践的过程中，就顺手把这些内容翻译一下：https://github.com/google/eng-practices/tree/master/review 。
 
 ## CodeReview的实践分为两个部分
 
-+ Reviewer的指引
-+ Developer的指引
++ 审查者（Reviewer）的指引
++ 修改者（Developer）的指引
 
 ## CodeReview相关术语
 
